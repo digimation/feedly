@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>tablet subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Python" title="Python">
+            <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
+            <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/"/>
+        </outline>
+        <outline text="Cryptocurrency" title="Cryptocurrency">
+            <outline type="rss" text="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" title="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" xmlUrl="http://feeds.feedburner.com/BitcoinMagazine" htmlUrl="https://bitcoinmagazine.com"/>
+            <outline type="rss" text="Ethereum Blog" title="Ethereum Blog" xmlUrl="http://blog.ethereum.org/feed/" htmlUrl="https://blog.ethereum.org"/>
+            <outline type="rss" text="The Coinbase Blog" title="The Coinbase Blog" xmlUrl="http://blog.coinbase.com/rss" htmlUrl="https://blog.coinbase.com?source=rss----c114225aeaf7---4"/>
+            <outline type="rss" text="CoinDesk" title="CoinDesk" xmlUrl="http://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com"/>
+        </outline>
+        <outline text="Sql" title="Sql">
+            <outline type="rss" text="Planet PostgreSQL" title="Planet PostgreSQL" xmlUrl="http://planet.postgresql.org/rss20.xml" htmlUrl="https://planet.postgresql.org"/>
+            <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="https://www.kdnuggets.com"/>
+            <outline type="rss" text="SQLblog.com - The SQL Server blog spot on the web" title="SQLblog.com - The SQL Server blog spot on the web" xmlUrl="http://sqlblog.com/blogs/MainFeed.aspx" htmlUrl="http://sqlblog.com/blogs/default.aspx"/>
+            <outline type="rss" text="Towards Data Science - Medium" title="Towards Data Science - Medium" xmlUrl="https://medium.com/feed/towards-data-science" htmlUrl="https://towardsdatascience.com?source=rss----7f60cf5620c9---4"/>
+            <outline type="rss" text="MongoDB | Blog" title="MongoDB | Blog" xmlUrl="http://blog.10gen.com/rss" htmlUrl="https://www.mongodb.com/blog"/>
+            <outline type="rss" text="ScaleGrid Blog" title="ScaleGrid Blog" xmlUrl="http://blog.mongodirector.com/feed/" htmlUrl="https://scalegrid.io/blog"/>
+            <outline type="rss" text="Data Engineering Podcast" title="Data Engineering Podcast" xmlUrl="https://www.dataengineeringpodcast.com/feed/mp3/" htmlUrl="https://www.dataengineeringpodcast.com"/>
+            <outline type="rss" text="SQL Authority with Pinal Dave" title="SQL Authority with Pinal Dave" xmlUrl="http://blog.sqlauthority.com/feed/" htmlUrl="https://blog.sqlauthority.com/"/>
+            <outline type="rss" text="Ryan Swanstrom" title="Ryan Swanstrom" xmlUrl="http://datascience101.wordpress.com/feed/" htmlUrl="https://ryanswanstrom.com/"/>
+            <outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="https://simplystatistics.org/index.xml"/>
+            <outline type="rss" text="Brent Ozar Unlimited®" title="Brent Ozar Unlimited®" xmlUrl="http://feeds.feedburner.com/BrentOzar-SqlServerDba" htmlUrl="https://www.brentozar.com"/>
+            <outline type="rss" text="Engineering Blog – Databricks" title="Engineering Blog – Databricks" xmlUrl="https://databricks.com/blog/category/developer/feed" htmlUrl="https://www.databricks.com"/>
+            <outline type="rss" text="Stories by Maxime Beauchemin on Medium" title="Stories by Maxime Beauchemin on Medium" xmlUrl="https://medium.com/feed/@maximebeauchemin" htmlUrl="https://medium.com/@maximebeauchemin?source=rss-9f4d525c99e2------2"/>
+            <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="http://www.stat.columbia.edu/~cook/movabletype/mlm/atom.xml" htmlUrl="https://statmodeling.stat.columbia.edu"/>
+            <outline type="rss" text="Data Council Blog" title="Data Council Blog" xmlUrl="http://www.dataengconf.com/blog/rss.xml" htmlUrl="https://www.datacouncil.ai/blog"/>
+            <outline type="rss" text="Blog Posts - SQLServerCentral" title="Blog Posts - SQLServerCentral" xmlUrl="http://www.sqlservercentral.com/blogs/MainFeed.aspx" htmlUrl="https://www.sqlservercentral.com"/>
+            <outline type="rss" text="PostgreSQL news" title="PostgreSQL news" xmlUrl="http://www.postgresql.org/news.rss" htmlUrl="https://www.postgresql.org/"/>
+            <outline type="rss" text="Seattle Data Guy" title="Seattle Data Guy" xmlUrl="https://www.theseattledataguy.com/feed/" htmlUrl="https://www.theseattledataguy.com/"/>
+            <outline type="rss" text="Articles - SQLServerCentral" title="Articles - SQLServerCentral" xmlUrl="http://www.sqlservercentral.com/sscrss.xml" htmlUrl="https://www.sqlservercentral.com"/>
+            <outline type="rss" text="MSSQLTips - Latest SQL Server Tips" title="MSSQLTips - Latest SQL Server Tips" xmlUrl="http://feeds.feedburner.com/MSSQLTips-LatestSqlServerTips" htmlUrl="https://www.mssqltips.com/"/>
+            <outline type="rss" text="Thomas LaRock" title="Thomas LaRock" xmlUrl="http://feeds.feedburner.com/SQLRockstar" htmlUrl="https://thomaslarock.com/"/>
+        </outline>
+        <outline text="geek" title="geek">
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="Pexels Blog" title="Pexels Blog" xmlUrl="http://blog.pexels.com/rss/" htmlUrl="https://www.pexels.com/blog"/>
+        </outline>
+        <outline text="tech" title="tech">
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="https://techcrunch.com/"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+            <outline type="rss" text="WSJ.com: US Business" title="WSJ.com: US Business" xmlUrl="http://online.wsj.com/xml/rss/3_8068.xml" htmlUrl="http://online.wsj.com"/>
+            <outline type="rss" text="WSJ.com: World News" title="WSJ.com: World News" xmlUrl="http://online.wsj.com/xml/rss/3_7085.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
+            <outline type="rss" text="JavaScript Live" title="JavaScript Live" xmlUrl="https://jslive.com/rss" htmlUrl="https://jslive.com"/>
+            <outline type="rss" text="WSJ.com: Markets" title="WSJ.com: Markets" xmlUrl="http://online.wsj.com/xml/rss/3_7031.xml" htmlUrl="http://online.wsj.com"/>
+        </outline>
+
+        <outline text="javascript" title="javascript">
+            <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss" htmlUrl="https://javascriptweekly.com/"/>
+            <outline type="rss" text="JavaScript Air" title="JavaScript Air" xmlUrl="http://audio.javascriptair.com/feed/" htmlUrl="http://audio.javascriptair.com"/>
+            <outline type="rss" text="DailyJS" title="DailyJS" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com/"/>
+            <outline type="rss" text="RisingStack Engineering" title="RisingStack Engineering" xmlUrl="http://blog.risingstack.com/rss/" htmlUrl="https://blog.risingstack.com/"/>
+        </outline>
+        <outline text="Knowledge management" title="Knowledge management">
+            <outline type="rss" text="Anecdote" title="Anecdote" xmlUrl="http://www.anecdote.com/feed/" htmlUrl="https://www.anecdote.com"/>
+        </outline>
+        <outline text="data" title="data">
+            <outline type="rss" text="Andreessen Horowitz" title="Andreessen Horowitz" xmlUrl="http://a16z.com/feed/" htmlUrl="https://a16z.com"/>
+            <outline type="rss" text="Stories by Netflix Technology Blog on Medium" title="Stories by Netflix Technology Blog on Medium" xmlUrl="https://medium.com/feed/@NetflixTechBlog" htmlUrl="https://medium.com/@netflixtechblog?source=rss-c3aeaf49d8a4------2"/>
+        </outline>
+
+        <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+    </body>
+</opml>
